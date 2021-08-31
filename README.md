@@ -1,3 +1,3 @@
 # resume
 
-[Click here to open resume](https://github.com/Nimith-M-Gowda/resume/blob/main/Nimith%20-%20Profile.docx.pdf)
+[Click here to open resume](https://docs.google.com/document/d/1evWQZrtyOA_bSGbhjG3IzdTC--Nz3uLc)
